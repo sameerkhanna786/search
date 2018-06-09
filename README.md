@@ -1,4 +1,4 @@
-# Artificial-Intelligence - Search
+# Artificial-Intelligence: Search
 
 Implemented Depth First Search, Breadth First Search, Uniform Cost Search, and A* Search. Created different heuristics. Helped pacman agent find shortest path to eat all dots.
 
