@@ -2,7 +2,7 @@
 
 Implemented Depth First Search, Breadth First Search, Uniform Cost Search, and A* Search. Created different heuristics. Helped pacman agent find shortest path to eat all dots.
 
-![P1](https://github.com/sameerkhanna786/search/tree/master/Images/P1.png)
+![P1](https://github.com/sameerkhanna786/search/blob/master/Images/P1.png)
 
 ![P2](https://github.com/sameerkhanna786/search/tree/master/Images/P2.png)
 
